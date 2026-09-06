@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "如果您引用了本软件，请使用以下引用信息。"
+title: "矛盾论分析框架：基于四层矛盾模型的复杂系统量化分析"
+abstract: "以《矛盾论》对立统一学说为哲学指导，原创构建物质-数据-意识三元统一本体论，以四层矛盾模型（L1-L4）为核心工程载体，构建覆盖全品类复杂系统的矛盾量化运算体系。严格定义矛盾强度、矛盾熵两大基础量化指标，推导并确立20条原创核心定理，首次完成系统论、控制论、信息论（老三论）的统一形式化映射，明确人类智能（四层坐标绑定的具身智能）与人工智能（多层纯数据流的抽象智能）的本质边界。"
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+    email: "mofahuizhang@163.com"
+version: 1.0.0
+date-released: "2026-09-06"
+license:
+  - "CC-BY-NC-4.0"
+keywords:
+  - "矛盾论"
+  - "四层矛盾模型"
+  - "复杂系统"
+  - "量化分析"
+  - "矛盾强度"
+  - "矛盾熵"
+  - "系统论"
+  - "控制论"
+  - "信息论"
+  - "人机协同"
+  - "具身智能"
+  - "抽象智能"
+repository-code: "https://gitee.com/mofahuizhang/maodunlun-fenxi-kuangjia"
